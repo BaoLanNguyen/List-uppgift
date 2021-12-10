@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\BLN\List uppgift\bin\Debug\net5.0\List uppgift.exe
+C:\Users\Admin\Documents\BLN\List uppgift\bin\Debug\net5.0\List uppgift.deps.json
+C:\Users\Admin\Documents\BLN\List uppgift\bin\Debug\net5.0\List uppgift.runtimeconfig.json
+C:\Users\Admin\Documents\BLN\List uppgift\bin\Debug\net5.0\List uppgift.runtimeconfig.dev.json
+C:\Users\Admin\Documents\BLN\List uppgift\bin\Debug\net5.0\List uppgift.dll
+C:\Users\Admin\Documents\BLN\List uppgift\bin\Debug\net5.0\ref\List uppgift.dll
+C:\Users\Admin\Documents\BLN\List uppgift\bin\Debug\net5.0\List uppgift.pdb
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\List uppgift.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\List uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\List uppgift.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\List uppgift.AssemblyInfo.cs
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\List uppgift.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\List uppgift.dll
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\ref\List uppgift.dll
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\List uppgift.pdb
+C:\Users\Admin\Documents\BLN\List uppgift\obj\Debug\net5.0\List uppgift.genruntimeconfig.cache
